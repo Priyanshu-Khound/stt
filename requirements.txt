@@ -1,0 +1,7 @@
+fastapi
+aiofiles
+python-multipart
+uvicorn
+torch
+transformers
+accelerate
